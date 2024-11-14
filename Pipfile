@@ -12,6 +12,7 @@ sdv = "*"
 scikit-learn = "*"
 recordlinkage = "*"
 nbformat = "==4.2.0"
+anonymeter = "*"
 
 [dev-packages]
 ipykernel = "*"
